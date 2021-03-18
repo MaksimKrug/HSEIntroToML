@@ -3,3 +3,7 @@ Week1
 *.
 *.rar
 Classification/.ipynb_checkpoints/New HW-checkpoint.ipynb
+Clusterization/.ipynb_checkpoints/Clusterization-checkpoint.ipynb
+Clusterization/__pycache__/lsa.cpython-36.pyc
+Clusterization/corpus.txt
+Clusterization/lsa.py
